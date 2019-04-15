@@ -1,0 +1,15 @@
+{
+  "name": "desktop-dino",
+  "version": "1.0.0",
+  "description": "Desktop version of Google Chrome Dino game",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.1.4"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mr_ChAI",
+  "license": "ISC"
+}
